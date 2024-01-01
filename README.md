@@ -2,6 +2,8 @@
 
 Highly customizable, easy-to-use, and minimal terminal styled website template, powered by Next.js.
 
+This portfolio was made using LiveTerm, and was deployed on Vercel.
+
 ## 📄 Configuration
 
 ### Basic Configuration
